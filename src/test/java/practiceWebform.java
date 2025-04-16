@@ -66,7 +66,7 @@ public class practiceWebform {
         js.executeScript("window.scrollBy(0,200)");
         Thread.sleep(2000);
 
-        driver.findElement(By.id("edit-uploadocument-upload")).sendKeys("C:\\Users\\Apnik034\\OneDrive\\Desktop\\Test.docx");
+        driver.findElement(By.id("edit-uploadocument-upload")).sendKeys("C:\\Users\\Apnik034\\OneDrive\\Desktop\\Testing.docx");
         Thread.sleep(2000);
 
         JavascriptExecutor js3 = (JavascriptExecutor) driver;
