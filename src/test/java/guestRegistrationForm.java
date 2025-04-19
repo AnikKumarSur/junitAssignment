@@ -38,13 +38,13 @@ public class guestRegistrationForm {
 
         //Fill up the fields
         inputField.get(4).sendKeys(firstName);
-        Thread.sleep(2000);
+        Thread.sleep(500);
         inputField.get(7).sendKeys(lastName);
-        Thread.sleep(2000);
+        Thread.sleep(500);
         inputField.get(5).sendKeys(email);
-        Thread.sleep(2000);
+        Thread.sleep(500);
         inputField.get(6).sendKeys(password);
-        Thread.sleep(2000);
+        Thread.sleep(500);
         inputField.get(8).click();
         Select country = new Select(driver.findElement(By.id("country_1665629257")));//Country
         country.selectByVisibleText("Bangladesh");
@@ -70,12 +70,13 @@ public class guestRegistrationForm {
 
 
         inputField.get(14).sendKeys("01743255525");
-        Thread.sleep(2000);
+        Thread.sleep(500);
         driver.findElement(By.id("country_1665629257")).click();
-        Thread.sleep(2000);
+        Thread.sleep(500);
 
         JavascriptExecutor js = (JavascriptExecutor) driver;
         js.executeScript("window.scrollBy(0,1200)");
+        Thread.sleep(2000);
 
 
         inputField.get(33).click();
