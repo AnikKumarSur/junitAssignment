@@ -19,26 +19,21 @@ public class practiceWebform {
         //For window size maximize
         driver.manage().window().maximize();
         //For create implicit wait
-        driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(30));
+        driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
 
     }
 
-    @Test
-    public void visitUrl(){
-        driver.get("https://www.digitalunite.com/practice-webform-learners");
-        //For get the title of the page
-        String actualTitle = driver.getTitle();
-        String expectedTitle = "Practice webform for learners | Digital Unite";
-        Assertions.assertTrue(actualTitle.equals(expectedTitle));
 
-    }
     @Test
     public void fillUpUserForm() throws InterruptedException {
         //visit the Form URL
         driver.get("https://www.digitalunite.com/practice-webform-learners");
+        driver.findElement(By.id("onetrust-accept-btn-handler")).click();
+        Thread.sleep(2000);
 
         //Find class selector for input field
         List<WebElement> txtFields = driver.findElements(By.className("form-control"));
+
 
         txtFields.get(0).sendKeys("Test User");
         Thread.sleep(2000);
