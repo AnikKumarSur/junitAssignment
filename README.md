@@ -22,8 +22,9 @@ https://github.com/user-attachments/assets/96ee46a7-b324-4754-b9af-443cc8ab8952
 
 
 
-### 📷 Report Screenshot:
-![Task 1 Report](screenshots/task1_report.png)
+### 📷Task-1 Report Screenshot:
+![report1](https://github.com/user-attachments/assets/97529a35-6b44-4dcc-a505-c189e8451261)
+
 
 ---
 
@@ -48,8 +49,9 @@ https://github.com/user-attachments/assets/50f7bc22-1e0c-4376-9efa-9a8e8df82d3e
 
 
 
-### 📷 Report Screenshot:
-![Task 2 Report](screenshots/task2_report.png)
+### 📷 Task-2 Report Screenshot:
+![report2](https://github.com/user-attachments/assets/297f7021-76bf-4af4-8f26-3b987d8a938c)
+
 
 ---
 
@@ -60,10 +62,10 @@ https://github.com/user-attachments/assets/50f7bc22-1e0c-4376-9efa-9a8e8df82d3e
 ### ✔️ Steps Performed:
 - Scraped the entire share price table
 - Printed all cell values in console (like provided image)
-- Stored data into `dse_stock_data.txt`
+- Stored data into `ScrapData.txt`
 
 ### 📂 Output File:
-- `output/dse_stock_data.txt`
+- `ScrapData.txt`
 
 ### 📹 Demo Video:
 [Watch Task 3 Automation Video](#) 
@@ -72,8 +74,9 @@ https://github.com/user-attachments/assets/273ab812-097b-4365-965c-d3a5ef8b9924
 
 
 
-### 📷 Report Screenshot:
-![Task 3 Report](screenshots/task3_report.png)
+### 📷 Task-3Report Screenshot:
+![report3](https://github.com/user-attachments/assets/0580e3e9-05c2-498d-b20c-a4bf0d4956ee)
+
 
 ---
 
@@ -88,7 +91,7 @@ https://github.com/user-attachments/assets/273ab812-097b-4365-965c-d3a5ef8b9924
 ✔️ Report screenshots included  
 ✔️ `.gitignore` configured  
 
-**GitHub Repository Link:** [Insert your GitHub repo link here]
+**GitHub Repository Link:** https://github.com/AnikKumarSur/junitAssignment.git
 
 ---
 
