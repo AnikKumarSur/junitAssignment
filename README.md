@@ -1,6 +1,6 @@
 # Web Automation & Web Scraping Project
 
-This repository contains three tasks involving web form automation and data scraping using Selenium.
+This repository contains three tasks involving web form automation and data scraping from table using Selenium.
 
 ---
 
