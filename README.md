@@ -64,8 +64,9 @@ https://github.com/user-attachments/assets/50f7bc22-1e0c-4376-9efa-9a8e8df82d3e
 - Printed all cell values in console (like provided image)
 - Stored data into `ScrapData.txt`
 
-### 📂 Output File:
-- `ScrapData.txt`
+### 📂 Output Image:
+![image](https://github.com/user-attachments/assets/ad1b8bdc-941e-4ece-a712-87a74c4cb38f)
+
 
 ### 📹 Demo Video:
 [Watch Task 3 Automation Video](#) 
