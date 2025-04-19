@@ -16,7 +16,11 @@ This repository contains three tasks involving web form automation and data scra
 
 
 ### 📹 Demo Video:
-[Watch Task 1 Automation Video](#) *(Insert video link)*
+[Watch Task 1 Automation Video](#)
+
+https://github.com/user-attachments/assets/96ee46a7-b324-4754-b9af-443cc8ab8952
+
+
 
 ### 📷 Report Screenshot:
 ![Task 1 Report](screenshots/task1_report.png)
@@ -38,7 +42,11 @@ This repository contains three tasks involving web form automation and data scra
 - Asserted registration was successful
 
 ### 📹 Demo Video:
-[Watch Task 2 Automation Video](#) *(Insert video link)*
+[Watch Task 2 Automation Video](#) 
+
+https://github.com/user-attachments/assets/50f7bc22-1e0c-4376-9efa-9a8e8df82d3e
+
+
 
 ### 📷 Report Screenshot:
 ![Task 2 Report](screenshots/task2_report.png)
@@ -58,7 +66,11 @@ This repository contains three tasks involving web form automation and data scra
 - `output/dse_stock_data.txt`
 
 ### 📹 Demo Video:
-[Watch Task 3 Automation Video](#) *(Insert video link)*
+[Watch Task 3 Automation Video](#) 
+
+https://github.com/user-attachments/assets/273ab812-097b-4365-965c-d3a5ef8b9924
+
+
 
 ### 📷 Report Screenshot:
 ![Task 3 Report](screenshots/task3_report.png)
@@ -82,7 +94,6 @@ This repository contains three tasks involving web form automation and data scra
 
 ### 👨‍💻 Developed By:
 Anik Kumar Sur
-Aspiring SQA Engineer
 
 
 
